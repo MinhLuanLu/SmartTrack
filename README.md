@@ -1,2 +1,3 @@
 # SmartTrack
 SmartTrack is your intelligent companion for tracking and optimizing your health journey. Whether you're looking to monitor your daily calorie intake, track your fitness progress, or get personalized advice, SmartTrack makes it simple. With cutting-edge technology that analyzes food, offers tailored nutrition insights, and connects you to real trainers, SmartTrack is designed to help you reach your goals smarter, not harder. Track your food, monitor your workouts, and get personalized guidance—all in one sleek, easy-to-use app. Empower yourself with SmartTrack and take control of your fitness and nutrition like never before.
+![image](https://github.com/user-attachments/assets/f72c7a0f-319d-40fd-b296-f37c0e347e73)
